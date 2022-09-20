@@ -519,7 +519,7 @@ sns.boxplot(y='height(cm)', data=clean_df)
 
 
     
-![png](first_proj_files/first_proj_11_1.png)
+![png](output_11_1.png)
     
 
 
@@ -546,7 +546,7 @@ sns.boxplot(x='height(cm)', data=clean_df)
 
 
     
-![png](first_proj_files/first_proj_13_1.png)
+![png](output_13_1.png)
     
 
 
@@ -596,7 +596,7 @@ plt.title('Which Gender does more coding')
 
 
     
-![png](first_proj_files/first_proj_18_1.png)
+![png](output_18_1.png)
     
 
 
@@ -616,7 +616,7 @@ plt.title("The Most Used programming language")
 
 
     
-![png](first_proj_files/first_proj_19_1.png)
+![png](output_19_1.png)
     
 
 
@@ -636,7 +636,7 @@ plt.title('Most Light off in which area')
 
 
     
-![png](first_proj_files/first_proj_20_1.png)
+![png](output_20_1.png)
     
 
 
@@ -665,7 +665,7 @@ plt.xticks(rotation=90)
 
 
     
-![png](first_proj_files/first_proj_21_1.png)
+![png](output_21_1.png)
     
 
 
@@ -702,7 +702,7 @@ plt.title("Which age of people are from which area")
 
 
     
-![png](first_proj_files/first_proj_23_1.png)
+![png](output_23_1.png)
     
 
 

@@ -28,7 +28,7 @@ df1.head(3)
 
 
 
-</style>
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">

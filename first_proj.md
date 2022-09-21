@@ -27,8 +27,20 @@ df1.head(3)
 
 
 
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
 
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
 
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -158,7 +170,20 @@ df1.describe()
 
 
 
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
 
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -288,6 +313,21 @@ clean_df.head(2)
 
 
 
+
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -374,8 +414,20 @@ clean_df.head(2)
 
 
 
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
 
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
 
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -467,7 +519,7 @@ sns.boxplot(y='height(cm)', data=clean_df)
 
 
     
-![png](output_11_1.png)
+![png](first_proj_files/first_proj_11_1.png)
     
 
 
@@ -494,7 +546,7 @@ sns.boxplot(x='height(cm)', data=clean_df)
 
 
     
-![png](output_13_1.png)
+![png](first_proj_files/first_proj_13_1.png)
     
 
 
@@ -544,7 +596,7 @@ plt.title('Which Gender does more coding')
 
 
     
-![png](output_18_1.png)
+![png](first_proj_files/first_proj_18_1.png)
     
 
 
@@ -564,7 +616,7 @@ plt.title("The Most Used programming language")
 
 
     
-![png](output_19_1.png)
+![png](first_proj_files/first_proj_19_1.png)
     
 
 
@@ -584,7 +636,7 @@ plt.title('Most Light off in which area')
 
 
     
-![png](output_20_1.png)
+![png](first_proj_files/first_proj_20_1.png)
     
 
 
@@ -598,13 +650,22 @@ plt.xticks(rotation=90)
 
 
 
-  
+    ([0, 1, 2, 3, 4, 5, 6, 7, 8],
+     [Text(0, 0, ''),
+      Text(0, 0, ''),
+      Text(0, 0, ''),
+      Text(0, 0, ''),
+      Text(0, 0, ''),
+      Text(0, 0, ''),
+      Text(0, 0, ''),
+      Text(0, 0, ''),
+      Text(0, 0, '')])
 
 
 
 
     
-![png](output_21_1.png)
+![png](first_proj_files/first_proj_21_1.png)
     
 
 
@@ -641,7 +702,7 @@ plt.title("Which age of people are from which area")
 
 
     
-![png](output_23_1.png)
+![png](first_proj_files/first_proj_23_1.png)
     
 
 
